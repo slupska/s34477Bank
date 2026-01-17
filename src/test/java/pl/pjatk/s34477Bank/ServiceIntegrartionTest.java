@@ -27,7 +27,6 @@ public class ServiceIntegrartionTest {
     @Autowired
     private BankService bankService;
 
-
     @Test
     void registerClientTest() {
         // WHEN

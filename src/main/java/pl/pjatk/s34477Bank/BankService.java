@@ -70,8 +70,6 @@ public class BankService {
         return new TransactionResult(ACCEPTED, newBalance);
     }
 
-
-
 }
 
 
